@@ -1,2 +1,1 @@
-# logistry-website
-A simple software and AI company website for Logistry
+Logistry bilingual static site - replace contact form ID and update contact details as needed.
